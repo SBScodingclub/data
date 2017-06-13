@@ -1,0 +1,5 @@
+cell-type,treatment,aromatase-a,aromatase-b,aromatase-c,17B-HSD-a,17B-HSD-b,17B-HSD-c,3B-HSD-a,3B-HSD-b,3B-HSD-c
+Normal,Control,1200,1100,1300,950,935,965,10,12,14
+Normal,Forskolin,1600,1550,1650,1350,1300,1400,20,18,22
+PCOS,Control,500,450,550,1000,1025,975,80,70,90
+PCOS,Forskolin,1100,1050,1150,1400,1425,1375,250,260,240

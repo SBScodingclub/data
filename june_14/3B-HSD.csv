@@ -1,0 +1,5 @@
+cell-type,treatment,1,2,3
+Normal,Control,10,12,14
+Normal,Forskolin,20,18,22
+PCOS,Control,80,70,90
+PCOS,Forskolin,250,260,240
